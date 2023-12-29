@@ -1,5 +1,3 @@
-# experimental_semantics
-
 ## О чём проект?
 Проект о скалярных импликатурах.
 * [Презентация](https://docs.google.com/presentation/d/1CJi49UCc2NKpRucmZrHb-5Zrgp1De3d5TAhXqVcW2Bo/edit?usp=sharing)
